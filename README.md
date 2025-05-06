@@ -6,7 +6,7 @@
 2. Create a python virtual environment (if it does not already exit)
 
     ```shell
-    python -m venv .venv
+    python3.12 -m venv .venv
     ```
 
 3. Activate the virtual environment
